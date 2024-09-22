@@ -1,4 +1,4 @@
-## Hi there 👋 i am Badhri Prasath D R
+## Hi there 👋
 
 <!--
 **Badhri-Prasath-D-R/Badhri-Prasath-D-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
