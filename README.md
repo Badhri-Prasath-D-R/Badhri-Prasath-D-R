@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Badhri%20Prasath%20D%20R)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Undergraduate;Full-Stack+Developer;Machine+Learning+Engineer;Computer+Vision+Enthusiast;Building+Scalable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Web+%26+AI+Developer;Architecting+scalable%2C+production-ready+systems;Optimizing+high-performance+predictive+models;Writing+clean%2C+self-documenting+code;...well%2C+writing+code+that+needs+57+comments+to+explain;Currently+debugging+a+critical+production+error;It+was+caused+by+a+missing+semicolon;I%E2%80%99ve+been+looking+for+it+since+Tuesday;My+code+is+10%25+logic+and+90%25+hope;If+it+works%2C+don't+touch+it.+Don't+even+look+at+it.;Fighting+Claude+over+a+syntax+error+I+made;Accepting+the+fact+that+the+AI+is+right+and+I+am+wrong;Contemplating+moving+to+the+woods+to+herd+goats;But+goats+don't+have+Stack+Overflow;So+back+to+pip+install+we+go...)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Badhri-Prasath-D-R&color=blueviolet&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/Badhri-Prasath-D-R?style=social)
@@ -120,25 +120,6 @@ me.say_hi()
 
 ---
 
-## Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Badhri-Prasath-D-R&theme=tokyo-night&hide_border=false&area=true)
-
----
-
-## GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Badhri-Prasath-D-R&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
-
----
-
-## Featured Projects
-
-[![SkillShare](https://github-readme-stats.vercel.app/api/pin/?username=Badhri-Prasath-D-R&repo=SkillShare-Peer-to-Peer-Teaching-and-Learning&theme=tokyonight)](https://github.com/Badhri-Prasath-D-R/SkillShare-Peer-to-Peer-Teaching-and-Learning)
-[![Staff Attendance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Badhri-Prasath-D-R&repo=Staff_attendence_Tracker&theme=tokyonight)](https://github.com/Badhri-Prasath-D-R/Staff_attendence_Tracker)
-[![Ping Pong Game](https://github-readme-stats.vercel.app/api/pin/?username=Badhri-Prasath-D-R&repo=Ping-pong-game-using-raylib-cpp&theme=tokyonight)](https://github.com/Badhri-Prasath-D-R/Ping-pong-game-using-raylib-cpp)
-
----
 
 ## Dev Quote of the Day
 
