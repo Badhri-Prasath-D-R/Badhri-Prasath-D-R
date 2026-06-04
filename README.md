@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Animated Header with Typing SVG -->
+<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Badhri%20Prasath%20D%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
-<!-- Typing SVG -->
+<!-- Typing SVG — hosted on demolab, very reliable -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Undergraduate+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A7%A0;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Building+Scalable+Systems+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
-<!-- Profile Views + Followers Badges -->
-[![](https://visitcount.itsvg.in/api?id=Badhri-Prasath-D-R&icon=6&color=6)](https://visitcount.itsvg.in)
+<!-- Visitor counter + social badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=Badhri-Prasath-D-R&color=blueviolet&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/Badhri-Prasath-D-R?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Badhri-Prasath-D-R?style=social)
 
@@ -15,7 +15,6 @@
 
 ---
 
-<!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```python
@@ -35,7 +34,7 @@ me = BadhriPrasath()
 me.say_hi()
 ```
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 - 🔭 Currently working on **ML systems & full-stack apps**
 - 🧠 Exploring **LLMs, Computer Vision & Scalable APIs**
@@ -113,7 +112,7 @@ me.say_hi()
 ### 🛠️ Tools & Design
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -127,24 +126,34 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Badhri-Prasath-D-R&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badhri-Prasath-D-R&theme=tokyonight&hide_border=false&layout=compact&langs_count=10" height="180"/>
+<!-- Using github-profile-summary-cards — very reliable, self-contained -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Badhri-Prasath-D-R&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Badhri-Prasath-D-R&theme=tokyonight" height="180"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Badhri-Prasath-D-R&theme=tokyonight&hide_border=false)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Badhri-Prasath-D-R&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Badhri-Prasath-D-R&theme=tokyonight&utcOffset=5.5" height="180"/>
+
+</div>
+
+<div align="center">
+
+<!-- Full profile summary card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Badhri-Prasath-D-R&theme=tokyonight" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Contribution Streak
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Badhri-Prasath-D-R&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
+<!-- streak-stats.demolab.com — the most reliable public streak host -->
+<img src="https://streak-stats.demolab.com?user=Badhri-Prasath-D-R&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
 
 </div>
 
@@ -154,7 +163,17 @@ me.say_hi()
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Badhri-Prasath-D-R&theme=tokyo-night&hide_border=false&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Badhri-Prasath-D-R&theme=tokyo-night&hide_border=false&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Badhri-Prasath-D-R&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" width="100%"/>
 
 </div>
 
@@ -164,19 +183,9 @@ me.say_hi()
 
 <div align="center">
 
-[![SkillShare](https://github-readme-stats.vercel.app/api/pin/?username=Badhri-Prasath-D-R&repo=SkillShare-Peer-to-Peer-Teaching-and-Learning&theme=tokyonight&hide_border=false)](https://github.com/Badhri-Prasath-D-R/SkillShare-Peer-to-Peer-Teaching-and-Learning)
-[![Staff Attendance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Badhri-Prasath-D-R&repo=Staff_attendence_Tracker&theme=tokyonight&hide_border=false)](https://github.com/Badhri-Prasath-D-R/Staff_attendence_Tracker)
-[![Ping Pong Game](https://github-readme-stats.vercel.app/api/pin/?username=Badhri-Prasath-D-R&repo=Ping-pong-game-using-raylib-cpp&theme=tokyonight&hide_border=false)](https://github.com/Badhri-Prasath-D-R/Ping-pong-game-using-raylib-cpp)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Badhri-Prasath-D-R&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![SkillShare](https://github-readme-stats.vercel.app/api/pin/?username=Badhri-Prasath-D-R&repo=SkillShare-Peer-to-Peer-Teaching-and-Learning&theme=tokyonight)](https://github.com/Badhri-Prasath-D-R/SkillShare-Peer-to-Peer-Teaching-and-Learning)
+[![Staff Attendance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Badhri-Prasath-D-R&repo=Staff_attendence_Tracker&theme=tokyonight)](https://github.com/Badhri-Prasath-D-R/Staff_attendence_Tracker)
+[![Ping Pong Game](https://github-readme-stats.vercel.app/api/pin/?username=Badhri-Prasath-D-R&repo=Ping-pong-game-using-raylib-cpp&theme=tokyonight)](https://github.com/Badhri-Prasath-D-R/Ping-pong-game-using-raylib-cpp)
 
 </div>
 
@@ -186,7 +195,7 @@ me.say_hi()
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
 </div>
 
@@ -200,6 +209,6 @@ me.say_hi()
 
 *Thanks for visiting! Drop a ⭐ if you found something interesting.*
 
-[![](https://visitcount.itsvg.in/api?id=Badhri-Prasath-D-R&icon=6&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Badhri-Prasath-D-R&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
