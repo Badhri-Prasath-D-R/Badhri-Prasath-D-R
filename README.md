@@ -102,20 +102,6 @@ me.say_hi()
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Badhri-Prasath-D-R&theme=tokyonight)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Badhri-Prasath-D-R&theme=tokyonight)
-
-![Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Badhri-Prasath-D-R&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Badhri-Prasath-D-R&theme=tokyonight&utcOffset=5.5)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Badhri-Prasath-D-R&theme=tokyonight)
-
----
-
-
-
 ## Dev Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
